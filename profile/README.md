@@ -71,5 +71,5 @@ Creemos en el poder del código abierto y la comunidad. Explora nuestros reposit
 </div>
 
 <div align="center">
-  <sub>Construido con 💜 por el equipo de NightlySoftware | © 2024 Todos los derechos reservados</sub>
+  <sub>Construido con 💜 por el equipo de NightlySoftware | © 2026 Todos los derechos reservados</sub>
 </div>
