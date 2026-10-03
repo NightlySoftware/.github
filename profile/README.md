@@ -10,7 +10,7 @@
 
 ## 🌙 Quiénes Somos
 
-Nightly Software es una startup mexicana de tecnología que nace de la pasión por la innovación y el desarrollo de software. Como el cielo nocturno que inspira nuestro nombre, nos dedicamos a iluminar el camino hacia la transformación digital, convirtiendo ideas ambiciosas en soluciones tecnológicas brillantes.
+Nightly Software desarrolla software a la medida para empresas que crecieron más allá de Excel y WhatsApp: inventario, producción, ventas, portales de clientes, automatización con WhatsApp e inteligencia artificial, sitios web y ciberseguridad. Guanajuato, México. contacto@nightlysoftware.com · +52 462 221 2236.
 
 ## 💫 Nuestra Filosofía
 
@@ -51,7 +51,9 @@ Creemos en el poder del código abierto y la comunidad. Explora nuestros reposit
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan@nightly.software)
+[Sitio web](https://nightlysoftware.com)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@nightlysoftware.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nightlysoftware/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nightlysoftware)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NightlySoftware)
