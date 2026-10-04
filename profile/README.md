@@ -1,5 +1,5 @@
 <div align="center" style="background-color: rgba(13, 9, 35, 0.9); backdrop-filter: blur(4px); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); padding: 20px;">
-  <img src="./assets/images/NS-Marca oficial_claro.png" alt="NightlySoftware Logo" style="width: 200px; height: auto;" />
+  <img src="./assets/images/NS-Marca oficial_claro.png" alt="Nightly Software" style="width: 200px; height: auto;" />
 </div>
 
 ## Quiénes Somos
@@ -17,7 +17,7 @@ Nightly Software desarrolla software a la medida para empresas que crecieron má
 - [WhatsApp para empresas](https://nightlysoftware.com/soluciones/whatsapp-para-empresas): confirmaciones, recordatorios y el estado de cada pedido salen solos.
 - [Automatización de procesos](https://nightlysoftware.com/soluciones/automatizacion-de-procesos): conectamos las herramientas que ya usas para que nadie copie datos a mano.
 - [Inteligencia artificial](https://nightlysoftware.com/soluciones/inteligencia-artificial): asistentes que responden a tus clientes e IA que lee facturas y formularios.
-- [Páginas web y tiendas en línea](https://nightlysoftware.com/soluciones/paginas-web): una página que explica qué haces y facilita que te encuentren y te contacten.
+- [Páginas web y tiendas en línea](https://nightlysoftware.com/soluciones/paginas-web): una página que explica qué haces y facilita que te encuentren y te contacten, o una tienda en línea donde tus clientes piden y pagan sin llamarte.
 - [Ciberseguridad para empresas](https://nightlysoftware.com/soluciones/ciberseguridad): revisamos tus sistemas y cuentas, y te decimos qué riesgos hay y qué corregir primero.
 - [Hosting, respaldos y mantenimiento](https://nightlysoftware.com/soluciones/hosting-y-mantenimiento): tu sitio o sistema respaldado, vigilado y al día.
 - [Consultoría de software](https://nightlysoftware.com/soluciones/consultoria-de-software): te ayudamos a decidir antes de gastar, desde revisar una cotización hasta elegir el sistema.
@@ -40,7 +40,7 @@ https://nightlysoftware.com · contacto@nightlysoftware.com · WhatsApp +52 462 
 ---
 
 <div align="center">
-  <img src="./assets/images/NS-Isotipo_blanco.png" alt="NightlySoftware Isotipo" width="48px" />
+  <img src="./assets/images/NS-Isotipo_blanco.png" alt="Nightly Software" width="48px" />
   <div style="display: flex; align-items: center; justify-content: center;">
     <div style="height: 1px; width: 40px; background-color: rgba(125, 86, 131, 0.5);"></div>
     <p style="color: rgba(218, 223, 254, 0.7); font-size: 14px;">De noche, creamos el mañana</p>
